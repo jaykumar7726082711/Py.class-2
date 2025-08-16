@@ -1,4 +1,4 @@
-# Py.class-2 11/08/2025 KEYWORDS 
+##77((# Py.class-2 11/08/2025 KEYWORDS 
 TSMC FROM TALIBAN ,
 ASML FROM NETHERLAND ,
 FULL FORM OF NIC NETWORK INTERFACE CARD,
@@ -14,3 +14,5 @@ interpreter convert high level language into machine language by line by line ,
 SMART NIC DPDK , SR-IOV 
 computation 
 x- 86,ARM, RISC-V
+#working of network 
+when user 
