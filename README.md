@@ -1,4 +1,5 @@
-ye yy📒 Notes (11/08/2025, Py.class-2)
+OOP python 
+📒 Notes ( Py.class)
 
 🖥️ Hardware & Companies
 
